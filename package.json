@@ -1,0 +1,12 @@
+{
+  "name": "http-proxy-server",
+  "version": "1.0.0",
+  "description": "Simple HTTP Proxy Server in Node.js",
+  "main": "index.js", // Assuming your main file is named index.js
+  "scripts": {
+    "start": "node index.js" // Command to start the server using node with your main file
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1" // Version of the http-proxy package used
+  }
+}
